@@ -1,0 +1,25 @@
+{
+  "generator": "Built-in ImageGen",
+  "assets": [
+    {
+      "file": "assets/flight/regions.webp",
+      "prompt": "A production background atlas for a premium hand-painted gouache 2D flight game. Large square image, precisely divided edge-to-edge into an exact two-column, two-row contact sheet of FOUR separate equal square landscape paintings. No grid lines, frames, gutters or text. Top left: verdant hanging gardens with pale jade morning sky, wind-chime towers, cloud waterfalls, drifting petals. Top right: volcanic ember archipelago at vermilion dusk, orange caldera, basalt spires and warm smoky peach skies. Bottom left: arctic crystal fjord at polar twilight, teal glacier bridges, distant blue crystal cliffs and glowing river. Bottom right: celestial observatory above a plum-violet sea of stars, golden armillary domes and a bright crescent planet. Each tile has airy readable middle half and detailed painted lower third, side-scrolling parallax game backgrounds, fine brushwork, luminous atmosphere, rich appealing silhouettes, no characters, no foreground obstacles, no words, no UI. All four canvases meet at the exact horizontal and vertical center of the square."
+    },
+    {
+      "file": "assets/flight/moon-valley.webp",
+      "prompt": "Landscape 3:2 premium hand painted gouache background plate for the nighttime chapter of a 2D side-scrolling fantasy bird game. The Moon Valley: moonlit indigo sky with a luminous pearl moon high on the right, a gentle aurora ribbon in jade and violet, drifting bands of lavender mist. Below, distant floating basalt islands, tiny eastern temple observatories with a few warm lit windows, silver waterfalls dissolving into clouds and bioluminescent turquoise trees. Exquisite atmospheric perspective and tactile brushwork with deliberate, calm shapes like an adventure animation film. Create a magical new place with a clean silhouette and open air across the entire middle half for a flying player and obstacles to be overlaid later. Keep the top and middle relatively quiet, detail concentrated in the lower third. No foreground pillars or objects, no birds, no text, no frame, no interface."
+    },
+    {
+      "file": "assets/flight/valley.webp",
+      "prompt": "Wide 3:2 richly painted background plate for a premium 2D side-scrolling adventure game, a painterly Indian Ocean cloud valley at sunrise. Layered turquoise mist, distant floating sandstone mesas with miniature ancient golden temples and subtle waterfalls, warm peach sun on right in the upper third, bright aqua blue sky and ivory clouds, indigo-teal shadows. Strong atmospheric perspective, exquisite clean gouache shapes, warm rim light, charming hand-crafted adventure animation film aesthetic. Upper half mostly luminous open sky, near foreground is empty air; lower third holds the more detailed landscape. Wide composition with small varied details across the whole horizon. Environment only, no bird, no obstacles in the foreground, no lettering or interface."
+    },
+    {
+      "file": "assets/flight/bird.webp",
+      "prompt": "Transparent PNG sprite sheet for a premium hand-painted 2D flight game. WIDE 3:1 single horizontal row of exactly THREE equally sized full-body side-on flying kingfisher sprites, all facing RIGHT. Three separated, nonoverlapping identical characters, at x centers 1/6, 1/2, 5/6. Golden-orange face and throat, deep turquoise blue back, swept sapphire head crest, sleek short gold beak, coral tail tips and expressive dark eye with tiny cream catchlight, single clean dark navy contour and elegantly simplified gouache feather highlights. Silhouette like a compact athletic sky explorer, high legibility small. First sprite wings lifted, second wings extended horizontally backwards, third wings down, beaks and head aligned on the same horizontal baseline. Every sprite completely visible, generous blank margin between each. Cutout alpha with absolutely no ground, no sky, no background, no captions, no grid, no shadow under them, no text."
+    },
+    {
+      "file": "assets/flight/column.webp",
+      "prompt": "Single game obstacle sprite, tall narrow straight-sided ancient sky temple column, front-on orthographic painted 2D cutout completely isolated on transparent alpha, portrait aspect. One freestanding vertical column with a broad flat-top stone capital on the TOP and straight continuous square stone shaft running all the way to a flat base at the bottom. Capital spans only 15 percent more than the shaft width. Rendered in premium hand-painted gouache animation style with bevelled ochre sandstone and jade teal inlays, two clean antique brass stripe bands near the capital, a carved sun diamond medallion on capital. Small delicate moss around the stone lip, dark azure shadow down the right side, warm peach sunlight from upper left. Reliable solid silhouette; flat top edge, parallel vertical sides, largely consistent width along height. Entire pillar visible including both ends, no ground, no loose parts, no lettering, no background. Large vertical shaft about 4x as tall as pillar width."
+    }
+  ]
+}
